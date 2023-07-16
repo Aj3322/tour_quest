@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244645064126",
+    "project_id": "green-cdcba",
+    "storage_bucket": "green-cdcba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244645064126:android:f43b27c540eb50bd86ddef",
+        "android_client_info": {
+          "package_name": "com.example.tour_quest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244645064126-eb1hj0pthfj8h0ickfgd4vbnpd73bg91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0073-GBllS2n98tu4j7X9nL-IZn1AMxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244645064126-eb1hj0pthfj8h0ickfgd4vbnpd73bg91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
